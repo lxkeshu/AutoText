@@ -1,0 +1,2 @@
+# AutoText
+Javascript mini project
